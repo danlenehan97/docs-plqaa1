@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-rcd61n.keitaro-tech-rtb.online/sitemap.xml
